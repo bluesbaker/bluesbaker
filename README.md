@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/bluesbaker">Konstantin</a>👋</h1>
-<h3 align="center">Fullstack developer on Javascript from Russia</h3>
+<h3 align="center">Fullstack developer on Javascript</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
